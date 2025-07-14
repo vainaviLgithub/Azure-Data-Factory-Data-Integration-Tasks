@@ -1,4 +1,4 @@
-Absolutely — here’s your clean, properly formatted **Markdown version** of your task document for Azure Data Factory Data Integration:
+
 
 ---
 
